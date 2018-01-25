@@ -1,2 +1,3 @@
 # hello-world
 Initial attempt at creating a repository on GitHub
+Seems easy enough....
